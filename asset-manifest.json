@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-templet-1/static/css/main.59ff6fd1.css",
+    "main.js": "/react-templet-1/static/js/main.f8628600.js",
+    "static/media/project2.png": "/react-templet-1/static/media/project2.ce59fe1c823ec29f4dd0.png",
+    "static/media/project1.png": "/react-templet-1/static/media/project1.ede25cae0a2ed3bc3412.png",
+    "static/media/project3.png": "/react-templet-1/static/media/project3.aefd7089f8fa104e3967.png",
+    "static/media/intro-bg.jpg": "/react-templet-1/static/media/intro-bg.cf2364827d8b8a98642e.jpg",
+    "static/media/react1.jpg": "/react-templet-1/static/media/react1.d63ca3791694cd8f6f49.jpg",
+    "static/media/intro-bg2.jpg": "/react-templet-1/static/media/intro-bg2.cad6ad3f9ff3acec997f.jpg",
+    "static/media/react2.webp": "/react-templet-1/static/media/react2.8aa659a4278a7132e6f4.webp",
+    "index.html": "/react-templet-1/index.html",
+    "main.59ff6fd1.css.map": "/react-templet-1/static/css/main.59ff6fd1.css.map",
+    "main.f8628600.js.map": "/react-templet-1/static/js/main.f8628600.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59ff6fd1.css",
+    "static/js/main.f8628600.js"
+  ]
+}
